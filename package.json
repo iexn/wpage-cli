@@ -1,0 +1,29 @@
+{
+  "name": "wpage-cli",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "wpage project"
+  },
+  "keywords": [
+    "wpage",
+    "web",
+    "html"
+  ],
+  "author": {
+    "name": "iexn",
+    "email": "iexn@qq.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.15.1"
+  },
+  "bin": {
+    "wpage": "./bin/wpage.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iexn/wpage-cli"
+  }
+}

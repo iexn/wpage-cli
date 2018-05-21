@@ -1,0 +1,22 @@
+{
+  "name": "wpage_project",
+  "version": "1.0.0",
+  "description": "wpage_project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "child_process": "^1.0.2",
+    "node-watch": "^0.5.8",
+    "path": "^0.12.7",
+    "watch": "^1.0.2",
+    "wpage": "^1.1.x",
+    "ws": "^5.1.1"
+  }
+}
