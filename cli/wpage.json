@@ -1,8 +1,7 @@
 {
-  "url": {
-    "/": "index.html",
-    "/index.html": "index.html"
-  },
+  "ext": [".html"],
+  "default": "index.html",
+  "ext": [".html"],
   "sass_style": "compact",
   "source_ext": {
     ".ai":"application/postscript",
